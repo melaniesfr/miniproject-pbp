@@ -3,4 +3,4 @@ Repository untuk mini project yang dikerjakan pada mata kuliah PBP tahun ajaran 
 
 > [Live Preview](https://dailyanimal.000webhostapp.com)
 
-> Credit: Our teams
+> Credits: Our teams
